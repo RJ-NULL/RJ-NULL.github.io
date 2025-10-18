@@ -1,0 +1,1 @@
+Hi，I‘m RJ_NULL
