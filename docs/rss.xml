@@ -1,2 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RJ_NULL的博客</title><link>https://RJ-NULL.github.io</link><description>404 Not Found</description><copyright>RJ_NULL的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://youke1.picui.cn/s1/2025/10/18/68f30f7cdbfa2.jpg</url><title>avatar</title><link>https://RJ-NULL.github.io</link></image><lastBuildDate>Sat, 18 Oct 2025 03:57:09 +0000</lastBuildDate><managingEditor>RJ_NULL的博客</managingEditor><ttl>60</ttl><webMaster>RJ_NULL的博客</webMaster><item><title>Hello，world！</title><link>https://RJ-NULL.github.io/post/Hello%EF%BC%8Cworld%EF%BC%81.html</link><description>Hi，I‘m RJ_NULL。</description><guid isPermaLink="true">https://RJ-NULL.github.io/post/Hello%EF%BC%8Cworld%EF%BC%81.html</guid><pubDate>Sat, 18 Oct 2025 03:39:32 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RJ_NULL的博客</title><link>https://RJ-NULL.github.io</link><description>404 Not Found</description><copyright>RJ_NULL的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://youke1.picui.cn/s1/2025/10/18/68f30f7cdbfa2.jpg</url><title>avatar</title><link>https://RJ-NULL.github.io</link></image><lastBuildDate>Sun, 19 Oct 2025 00:11:42 +0000</lastBuildDate><managingEditor>RJ_NULL的博客</managingEditor><ttl>60</ttl><webMaster>RJ_NULL的博客</webMaster><item><title>Fedora安装指南😋</title><link>https://RJ-NULL.github.io/post/Fedora-an-zhuang-zhi-nan-%F0%9F%98%8B.html</link><description># Fedora 安装指南（Fedora Workstation）
+
+## 一、准备工作
+
+### 1. 下载 Fedora 镜像
+- 访问官方下载页面：[https://getfedora.org/](https://getfedora.org/)
+- 也可在其他镜像站下载：[https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/](https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/)
+- 选择 **Workstation** 版本（桌面用户推荐）
+- 点击“Download Now”下载 ISO 文件（通常为 `.iso` 格式，约 2–3 GB）
+
+### 2. 验证镜像（可选但推荐）
+- 在下载页面找到对应的 **SHA256 校验值**
+- 在终端中运行（Linux/macOS）：
+  ```bash
+  sha256sum ~/Downloads/Fedora-Workstation-Live-x86_64-*.iso
+  ```
+- 比对输出是否与官网一致，确保文件完整无损。</description><guid isPermaLink="true">https://RJ-NULL.github.io/post/Fedora-an-zhuang-zhi-nan-%F0%9F%98%8B.html</guid><pubDate>Sun, 19 Oct 2025 00:11:04 +0000</pubDate></item><item><title>Hello，world！</title><link>https://RJ-NULL.github.io/post/Hello%EF%BC%8Cworld%EF%BC%81.html</link><description>Hi，I‘m RJ_NULL。</description><guid isPermaLink="true">https://RJ-NULL.github.io/post/Hello%EF%BC%8Cworld%EF%BC%81.html</guid><pubDate>Sat, 18 Oct 2025 03:39:32 +0000</pubDate></item></channel></rss>
